@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Swift build artifacts
+.build/
+*.o
+*.dia
+
+# Xcode
+xcuserdata/
+DerivedData/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
